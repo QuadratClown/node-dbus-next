@@ -1,6 +1,6 @@
 {
-  "name": "dbus-next",
-  "version": "0.10.2",
+  "name": "@quadratclown/dbus-next",
+  "version": "1.0.0",
   "keywords": [
     "dbus",
     "dcop",
@@ -25,14 +25,14 @@
   "types": "types.d.ts",
   "maintainers": [
     {
-      "name": "Tony Crisci",
-      "email": "tony@dubstepdish.com"
+      "name": "Thomas Huffert",
+      "email": "thomas@huffert.de"
     }
   ],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "http://github.com/dbusjs/node-dbus-next.git"
+    "url": "https://github.com/quadratclown/node-dbus-next.git"
   },
   "dependencies": {
     "event-stream": "3.3.4",

@@ -1,10 +1,10 @@
+This is a fork of [dbus-next](https://www.npmjs.com/package/dbus-next) that has been created since required pull requests have not been merged yet.
+
 # dbus-next
 
 The next great DBus library for NodeJS.
 
 [Documentation](https://acrisci.github.io/doc/node-dbus-next/)
-
-[Chat](https://discord.gg/UdbXHVX)
 
 ## About
 
